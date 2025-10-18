@@ -19,9 +19,9 @@
 
 ## 🥸 About Me
 
-- 👨🏻‍💻 Passionate about **automation and AI-powered simulation tools**  
-- 🦾 Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, and **C#**
-- 💻 Building projects that merge **aerospace performance modeling** with **machine learning intelligence**
+- Passionate about **automation and AI-powered simulation tools**  
+- Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, and **C#**
+- Building projects that merge **aerospace performance modeling** with **machine learning intelligence**
 
 ---
 
