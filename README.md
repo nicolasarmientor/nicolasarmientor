@@ -89,8 +89,8 @@
 
 ---
 
-## 🥳 Fun Fact
+## 🏎️ Fun Fact
 
-- 🏎️ I’m passionate about **Formula 1** and **Aviation** (high-speed vehicles).  
+- I’m passionate about **Formula 1** and **Aviation** (high-speed vehicles).  
 
 ---
