@@ -9,9 +9,16 @@
 
 ---
 
+## 🎓 Education
+
+- **B.S. Software Engineering** — *Auburn University* - Exp: Dec 2026  
+- **B.S. Aerospace Engineering** — *Auburn University* - Exp: Dec 2026  
+- **GPA: 3.71** 
+
+---
+
 ## 🥸 About Me
 
-- 🛩️ Pursuing a **B.S. in Software Engineering** and a **B.S. in Aerospace Engineering** — *Auburn University*  
 - 👨🏻‍💻 Passionate about **automation and AI-powered simulation tools**  
 - 🦾 Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, and **C#**
 - 💻 Building projects that merge **aerospace performance modeling** with **machine learning intelligence**
@@ -71,14 +78,6 @@
 | **🎥 Movie Database Generator** | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
 | **🛜 Morse Code Translator** | Flask web app converting text to Morse code and vice versa with a clean UI. |
 | **🎬 IMDB Sentiment Analysis** | Negative movie review classifier web app using Scikit-learn's Logistic Regression model. |
-
----
-
-## 🎓 Education
-
-- **B.S. Software Engineering** — *Auburn University* - Exp: Dec 2026  
-- **B.S. Aerospace Engineering** — *Auburn University* - Exp: Dec 2026  
-- **GPA: 3.71** 
 
 ---
 
