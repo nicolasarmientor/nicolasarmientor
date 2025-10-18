@@ -9,11 +9,11 @@
 
 ---
 
-## 🧭 About Me
+## 🥸 About Me
 
-- 🎯 Pursuing a **B.S. in Software Engineering** and a **B.S. in Aerospace Engineering** — *Auburn University*  
-- 🚀 Passionate about **automation and AI-powered simulation tools**  
-- 🧠 Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, and **C#**
+- 🛩️ Pursuing a **B.S. in Software Engineering** and a **B.S. in Aerospace Engineering** — *Auburn University*  
+- 👨🏻‍💻 Passionate about **automation and AI-powered simulation tools**  
+- 🦾 Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, and **C#**
 - 💻 Building projects that merge **aerospace performance modeling** with **machine learning intelligence**
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-### ⚙️ Frameworks
+### 🧱 Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI"/>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🧠 Development Tools
+### 🛠️ Development Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" title="Anaconda"/>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🛠️ Design & Simulation Software
+### ⚙️ Design & Simulation Software
 <p align="center">
   <img src="https://wp-cdn.pugetsystems.com/2022/08/SOLIDWORKS-Logo.png" width="40" height="40" alt="SolidWorks" title="SolidWorks"/>
   <img src="https://wallpapers.com/images/hd/auto-c-a-d-logo-graphic-kkipca3aki0i49xv-kkipca3aki0i49xv.png" width="40" height="40" alt="AutoCAD" title="AutoCAD"/>
@@ -65,11 +65,11 @@
 
 | Repo | Description |
 |------|--------------|
-| **🧠 Diabetes Prediction Web App** | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
+| **🩻 Diabetes Prediction Web App** | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
 | **🗣️ PDF-to-Speech Converter** | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
 | **🌦️ Weather Dashboard (C#)** | ASP.NET Core-based web weather dashboard with live API-based data integration. |
 | **🎥 Movie Database Generator** | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
-| **🧩 Morse Code Translator** | Flask web app converting text to Morse code and vice versa with a clean UI. |
+| **🛜 Morse Code Translator** | Flask web app converting text to Morse code and vice versa with a clean UI. |
 | **🎬 IMDB Sentiment Analysis** | Negative movie review classifier web app using Scikit-learn's Logistic Regression model. |
 
 ---
@@ -90,10 +90,8 @@
 
 ---
 
-## 🎯 Fun Facts
+## 🥳 Fun Fact
 
 - 🏎️ I’m passionate about **Formula 1** and **Aviation** (high-speed vehicles).  
-- ⚙️ I enjoy **automating** and everything around me to simplify daily tasks.
-- ☕ Cold brew and coding marathons fuel most of my projects.
 
 ---
