@@ -72,6 +72,7 @@
 
 | Repo | Description |
 |------|--------------|
+| **💹 Financial Sentiment Analyzer** | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
 | **🩻 Diabetes Prediction Web App** | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
 | **🗣️ PDF-to-Speech Converter** | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
 | **🌦️ Weather Dashboard (C#)** | ASP.NET Core-based web weather dashboard with live API-based data integration. |
