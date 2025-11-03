@@ -92,6 +92,6 @@
 
 ## 🏎️ Fun Fact
 
-- I’m passionate about **Formula 1** and **Jets**.  
+- I’m passionate about **Formula 1** and **Jets**
 
 ---
