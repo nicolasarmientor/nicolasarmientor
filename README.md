@@ -4,12 +4,12 @@
 
 ---
 
-### 👋🏼 Hi, I’m **Nicolas Sarmiento!**
+### Hi, I’m **Nicolas Sarmiento!**
 **Software Engineer and Aerospace Engineer | ML Enthusiast**
 
 ---
 
-## 🎓 Education
+## Education
 
 - **B.S. Software Engineering** — *Auburn University* - Exp: Dec 2026  
 - **B.S. Aerospace Engineering** — *Auburn University* - Exp: Dec 2026  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🥸 About Me
+## About Me
 
 - Passionate about **automation and AI-powered simulation tools**  
 - Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, and **C#**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 <p align="center">
@@ -38,7 +38,7 @@
 
 ---
 
-### 🧱 Frameworks
+### Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI"/>
@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠️ Development Tools
+### Development Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" title="Anaconda"/>
@@ -59,7 +59,7 @@
 
 ---
 
-### ⚙️ Design & Simulation Software
+### Design & Simulation Software
 <p align="center">
   <img src="https://wp-cdn.pugetsystems.com/2022/08/SOLIDWORKS-Logo.png" width="40" height="40" alt="SolidWorks" title="SolidWorks"/>
   <img src="https://wallpapers.com/images/hd/auto-c-a-d-logo-graphic-kkipca3aki0i49xv-kkipca3aki0i49xv.png" width="40" height="40" alt="AutoCAD" title="AutoCAD"/>
@@ -68,7 +68,7 @@
 
 ---
 
-## 📌 Highlighted Projects
+## Highlighted Projects
 
 | Repo | Description |
 |------|--------------|
@@ -82,16 +82,10 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nicolas-sarmiento-25955a2a5)  
 - 🧾 [GitHub](https://github.com/nicolasarmientor)  
 - ✉️ nsarmiento655@outlook.com 
-
----
-
-## 🏎️ Fun Fact
-
-- I’m passionate about **Formula 1** and **Jets**
 
 ---
