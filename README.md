@@ -72,20 +72,19 @@
 
 | Repo | Description |
 |------|--------------|
-| **💹 Financial Sentiment Analyzer** | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
-| **🩻 Diabetes Prediction Web App** | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
-| **🌦️ Weather Dashboard (C#)** | ASP.NET Core-based web weather dashboard with live API-based data integration. |
-| **🗣️ PDF-to-Speech Converter** | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
-| **🎥 Movie Database Generator** | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
-| **🛜 Morse Code Translator** | Flask web app converting text to Morse code and vice versa with a clean UI. |
+| ** Financial Sentiment Analyzer** | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
+| ** Diabetes Prediction Web App** | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
+| ** Weather Dashboard (C#)** | ASP.NET Core-based web weather dashboard with live API-based data integration. |
+| ** PDF-to-Speech Converter** | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
+| ** Movie Database Generator** | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
+| ** Morse Code Translator** | Flask web app converting text to Morse code and vice versa with a clean UI. |
 | **🎬 IMDB Sentiment Analysis** | Negative movie review classifier web app using Scikit-learn's Logistic Regression model. |
 
 ---
 
 ## Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nicolas-sarmiento-25955a2a5)  
-- 🧾 [GitHub](https://github.com/nicolasarmientor)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nicolas-sarmiento-25955a2a5)    
 - ✉️ nsarmiento655@outlook.com 
 
 ---
