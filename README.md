@@ -72,13 +72,13 @@
 
 | Repo | Description |
 |------|--------------|
-| ## Financial Sentiment Analyzer ## | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
-| ** Diabetes Prediction Web App** | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
-| ** Weather Dashboard (C#)** | ASP.NET Core-based web weather dashboard with live API-based data integration. |
-| ** PDF-to-Speech Converter** | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
-| ** Movie Database Generator** | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
-| ** Morse Code Translator** | Flask web app converting text to Morse code and vice versa with a clean UI. |
-| **🎬 IMDB Sentiment Analysis** | Negative movie review classifier web app using Scikit-learn's Logistic Regression model. |
+| __Financial Sentiment Analyzer__ | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
+| __Diabetes Prediction Web App__ | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
+| __Weather Dashboard (C#)__ | ASP.NET Core-based web weather dashboard with live API-based data integration. |
+| __PDF-to-Speech Converter__ | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
+| __Movie Database Generator__ | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
+| __Morse Code Translator__ | Flask web app converting text to Morse code and vice versa with a clean UI. |
+| __IMDB Sentiment Analysis__ | Negative movie review classifier web app using Scikit-learn's Logistic Regression model. |
 
 ---
 
