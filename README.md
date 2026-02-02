@@ -13,15 +13,15 @@
 
 - **B.S. Software Engineering** — *Auburn University* - Exp: Dec 2026  
 - **B.S. Aerospace Engineering** — *Auburn University* - Exp: Dec 2026  
-- **GPA: 3.71** 
+- **GPA: 3.69** 
 
 ---
 
 ## About Me
 
-- Passionate about **automation and AI-powered simulation tools**  
+- Passionate about **AI-powered tools and App Development**  
 - Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, and **C#**
-- Building projects that merge **aerospace performance modeling** with **machine learning intelligence**
+- Building projects that relate to **Aerospace Performance Modeling** and **Machine Learning**
 
 ---
 
