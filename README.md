@@ -12,8 +12,9 @@
 ## Education
 
 - **B.S. Software Engineering** — *Auburn University* - Exp: Dec 2026  
-- **B.S. Aerospace Engineering** — *Auburn University* - Exp: Dec 2026  
-- **GPA: 3.69** 
+- **B.S. Aerospace Engineering** — *Auburn University* - Exp: Dec 2026
+- **Artificial Intelligence Engineering Undergraduate Certificate** - *Auburn University*   
+- **GPA: 3.65** 
 
 ---
 
