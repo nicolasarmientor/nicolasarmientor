@@ -70,15 +70,15 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[Fed-Fighter](https://github.com/nicolasarmientor/fed-fighter)** | Distributed machine learning pipeline leveraging the Flower framework to train and evaluate CNN-LSTM architectures on network traffic datasets, comparing federated versus centralized learning scenarios. |
-| **[Lunar-Lander](https://github.com/nicolasarmientor/lunar-lander)** | Autonomous flight control simulation applying deep reinforcement learning to successfully stabilize, navigate, and land a simulated spacecraft. *(Note: If you used a PID controller instead of AI for this, change "deep reinforcement learning" to "PID control algorithms")*. |
-| **Financial Sentiment Analyzer** | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
-| **Diabetes Prediction Web App** | FastAPI-based ML app that trains and compares regression models, outputs JSON & PDF reports. |
-| **Weather Dashboard** | ASP.NET Core-based web weather dashboard with live API-based data integration. |
-| **PDF-to-Speech Converter** | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
-| **Movie Database Generator** | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
-| **Morse Code Translator** | Flask web app converting text to Morse code and vice versa with a clean UI. |
-| **IMDB Sentiment Analysis** | Negative movie review classifier web app using Scikit-learn's Logistic Regression model. |
+| **[fed-fighter](https://github.com/nicolasarmientor/fed-fighter)** | Distributed federated learning pipeline leveraging the Flower framework to train and evaluate lightweight CNN-LSTM architectures on network traffic datasets, comparing federated versus centralized learning scenarios. |
+| **[lunar-lander](https://github.com/nicolasarmientor/lunar-lander)** | A fully reusable crewed lunar lander designed to transport 3 astronauts and 3,000 kg of cargo between NASA's Gateway Space Station and the lunar surface. It contains the SolidWorks part files and master assembly, along with finite element analysis (FEA) results performed on the structure and propellant tanks. |
+| **[financial-sentiment-analyzer](https://github.com/nicolasarmientor/financial-sentiment-nlp)** | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
+| **[diabetes-regression](https://github.com/nicolasarmientor/diabetes-regression)** | FastAPI-based ML app that trains and compares linear regression models, outputs JSON & PDF reports. |
+| **[weather-dashboard-web](https://github.com/nicolasarmientor/weather-dashboard-web)** | ASP.NET Core-based web weather dashboard with live API-based data integration. |
+| **[pdf-text-to-speech](https://github.com/nicolasarmientor/pdf-text-to-speech)** | FastAPI-based app that converts uploaded PDFs into speech using OpenAI’s TTS API, with interactive playback UI. |
+| **[movie-random-generator](https://github.com/nicolasarmientor/movie-random-generator)** | Python + SQLAlchemy project that auto-generates and populates movie datasets with relational links and metadata queries. |
+| **[morse-code-translator](https://github.com/nicolasarmientor/morse-code-translator)** | Flask web app converting text to Morse code and vice versa with a clean UI. |
+| **[imdb-sentiment-analysis](https://github.com/nicolasarmientor/imdb-sentiment-analysis)** | Negative movie review classifier web app using Scikit-learn's Logistic Regression model. |
 
 ---
 
