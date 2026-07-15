@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/TBldNhU9F0oAAAAd/f22.gif" width="100%" alt="F-22 Raptor GIF" title="F-22 Raptor"/>
+  <img src="[https://media1.tenor.com/m/TBldNhU9F0oAAAAd/f22.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHo5eDVnZHJpcG03eWlhZ3Jvcm1jcXVodWk4dHdxMzZoejV4d3pidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5K4BSYsZYDsFeDwz2/giphy.gif)" width="100%" alt="F/A-18 Super Hornet GIF" title="F/A-18 Super Hornet"/>
 </p>
 
 ---
