@@ -21,7 +21,7 @@
 ## About Me
 
 - Passionate about **AI-powered tools and App Development**  
-- Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **MATLAB**, **C#**, and **SolidWorks**
+- Experienced with **FastAPI**, **Flask**, **TensorFlow**, **PyTorch**, **Docker**, **MATLAB**, **C#**, and **SolidWorks**
 - Building projects that relate to **Machine Learning** and **Aerospace Performance Modeling**
 
 ---
