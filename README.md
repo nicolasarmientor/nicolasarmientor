@@ -70,6 +70,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| **[TensorFlow-RAG](https://github.com/nicolasarmientor/tf-rag)** | Retrieval-augmented Q&A system over the TensorFlow docs — FastAPI + ChromaDB retrieval, Claude generation, an LLM-as-judge evaluation harness, and a Dockerized deployment on Render. [Live demo](https://tf-rag.onrender.com/). |
 | **[fed-fighter](https://github.com/nicolasarmientor/fed-fighter)** | Distributed federated learning pipeline leveraging the Flower framework to train and evaluate lightweight CNN-LSTM architectures on network traffic datasets, comparing federated versus centralized learning scenarios. |
 | **[lunar-lander](https://github.com/nicolasarmientor/lunar-lander)** | A fully reusable crewed lunar lander designed to transport 3 astronauts and 3,000 kg of cargo between NASA's Gateway Space Station and the lunar surface. It contains the SolidWorks part files and master assembly, along with finite element analysis (FEA) results performed on the structure and propellant tanks. |
 | **[financial-sentiment-analyzer](https://github.com/nicolasarmientor/financial-sentiment-nlp)** | FastAPI-powered NLP web app that uses FinBERT transformer to analyze the sentiment of financial news and visualizes stock trends. |
