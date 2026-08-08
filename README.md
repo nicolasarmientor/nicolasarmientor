@@ -5,7 +5,7 @@
 ---
 
 ### Hi, I’m **Nicolas Sarmiento!**
-**Software Engineer and Aerospace Engineer | ML Enthusiast**
+**Software and Aerospace Engineer | ML Enthusiast**
 
 ---
 
