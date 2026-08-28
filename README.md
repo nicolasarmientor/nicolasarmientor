@@ -4,10 +4,6 @@
 
 ---
 
-**Software and Aerospace Engineer | ML Enthusiast**
-
----
-
 ## Education
 
 - **B.S. Software Engineering** - *Auburn University* - Exp: Dec 2026  
