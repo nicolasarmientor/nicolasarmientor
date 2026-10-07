@@ -2,6 +2,12 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHo5eDVnZHJpcG03eWlhZ3Jvcm1jcXVodWk4dHdxMzZoejV4d3pidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5K4BSYsZYDsFeDwz2/giphy.gif" width="100%" alt="F/A-18 Super Hornet GIF" title="F/A-18 Super Hornet"/>
 </p>
 
+<p align="center">
+  <a href="https://personal-portfolio-nicolasar.vercel.app/">
+    <img src="https://img.shields.io/badge/Interactive-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ## Education
@@ -81,6 +87,7 @@
 
 ## Connect With Me
 
+- 🌐 [Portfolio Website](https://personal-portfolio-nicolasar.vercel.app/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nicolas-sarmiento-25955a2a5)    
 - ✉️ nsarmiento655@outlook.com 
 
